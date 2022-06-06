@@ -59,3 +59,5 @@ Se procede a recrear el siguiente estema de un circuito de manera real y en el s
 Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. México: Pearson Educación: http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
 Salazar, A. (2010). Leyes de voltajes y corrientes de Kirchhoff. Universidad de Los Andes, 1(1), 13–34: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
+Salazar, A. (2012). 3. Análisis Por Nodos Y Mallas 3.1. Universidad de Los Andes, 35–62.
