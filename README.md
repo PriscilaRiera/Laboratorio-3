@@ -45,6 +45,11 @@ Se procede a recrear el siguiente estema de un circuito de manera real y en el s
 ![image](https://user-images.githubusercontent.com/105740772/172260293-59af5eb7-fb56-4a89-b7a3-df0c8902a16b.png)
 
 ### Resolución de los cálculos
+- En primer lugar se transforma todas las medidas de las resistencias en una sola unidad.
+
+![image](https://user-images.githubusercontent.com/105740772/172278877-47cc40b4-3b6b-4514-8736-a0c6107949e3.png)
+
+- A continuación se realiza el cálculo de los nodos del circuito propuesto.
 ### Cálculo del error
 ### Comparación de las mediciones
 
