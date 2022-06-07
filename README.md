@@ -36,10 +36,13 @@ Se procede a recrear el siguiente estema de un circuito de manera real y en el s
 
 ### Medición de cada uno de los nodos
 
-![image](https://user-images.githubusercontent.com/105740772/172258483-645a8280-b3b9-4e2a-a7af-34ce49b967c9.png)
+![image](https://user-images.githubusercontent.com/105740772/172283294-9cdec3bf-521b-49da-abc0-5c2b8cf61e73.png)}
 
 ## 4.Respuesta a interrogantes y cálculo del error
 ### Resultados obtenidos
+
+![image](https://user-images.githubusercontent.com/105740772/172294243-ead56284-c848-49a2-aa85-ddad69e02581.png)
+
 ### Explicación del método de análisis de nodos
 
 ![image](https://user-images.githubusercontent.com/105740772/172260293-59af5eb7-fb56-4a89-b7a3-df0c8902a16b.png)
@@ -50,8 +53,21 @@ Se procede a recrear el siguiente estema de un circuito de manera real y en el s
 ![image](https://user-images.githubusercontent.com/105740772/172278877-47cc40b4-3b6b-4514-8736-a0c6107949e3.png)
 
 - A continuación se realiza el cálculo de los nodos del circuito propuesto.
+
+![image](https://user-images.githubusercontent.com/105740772/172285765-134de67d-30a8-40b2-93c6-784829344ec2.png)
+
+![image](https://user-images.githubusercontent.com/105740772/172286836-7b7a63c7-8274-46cc-b661-d2406d51983c.png)
+
+![image](https://user-images.githubusercontent.com/105740772/172291966-461a0e11-17ce-4e05-a72e-407d08e08dcf.png)
+
+![image](https://user-images.githubusercontent.com/105740772/172294058-81c2226c-1e19-435a-a93f-e7e4e01ee002.png)
+
 ### Cálculo del error
+
+![image](https://user-images.githubusercontent.com/105740772/172295359-d9468988-2efe-4ae5-aa6b-8cd70cd5c55c.png)
+
 ### Comparación de las mediciones
+- Al realizar el cálculo del error se pudo notar que hay un cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
 
 ## 5.Video
 ## 6.Conclusiones
