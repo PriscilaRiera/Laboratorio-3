@@ -70,6 +70,9 @@ Se procede a recrear el siguiente estema de un circuito de manera real y en el s
 - Al realizar el cálculo del error se pudo notar que hay un cierto porcentaje y aunque no es mucho podria influenciar en el circuito.
 
 ## 5.Video
+
+https://www.youtube.com/watch?v=AZAOYeuh4Zw
+
 ## 6.Conclusiones
 - Un nodo es un punto de conexión entre uno o más elementos en un circuito, el análisis de nodos en un circuito se realiza para expresar los valores de la corriente en función de voltajes utilizando la ley de corrientes de Kirchhoff para este propósito.
 - Al realizar el cálculo de forma analítica de los valores de los nodos en el circuito propuesto y después compararlos con los resultados obtenidos en el simulador y de manera real, se consigue una mejor comprensión del análisis de nodos.
